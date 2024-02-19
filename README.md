@@ -5,6 +5,7 @@
 <h2>Description</h2>
 A security audit is a review of an organization's security controls, procedures, and policies against a set of expectations. In this project, I reviewed an initial assessment of a fake company and interpretted what I read to establish what controls were being implemented as well as what compliances were being followed. Then followed up with a summary of what controls were missing and needed implementation as well as how to adhere to compliances through application of controls.
 <br />
+[Control and Compliance checklist.docx](https://github.com/robingould1/ConductSecurityAudit/files/14325108/Control.and.Compliance.checklist.docx)
 
 
 <h2>Languages and Utilities Used</h2>
